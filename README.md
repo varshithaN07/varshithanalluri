@@ -1,5 +1,5 @@
 ### Hi there 👋
-***I’m currently pursuing my masters.***
-***I’m currently learning HTML,CSS,JAVA through OOPS.***
-***My intrests are cooking and Surfing***
+***I’m currently pursuing my masters.***<br>
+***I’m currently learning HTML,CSS,JAVA through OOPS.***<br>
+***My intrests are cooking and Surfing***<br>
 
